@@ -97,6 +97,6 @@ Soil Moisture: 450
 
 ## 👤 Author
 
-Farhath
+Farhath Zuhair Embedded System
 
 ---
